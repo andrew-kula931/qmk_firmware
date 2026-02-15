@@ -1,0 +1,2 @@
+BOOTLOADER = caterina
+SPLIT_KEYBOARD = yes
